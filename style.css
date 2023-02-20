@@ -1,1 +1,30 @@
+.name{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:teal;
+    font-size: 35px;
+}
 
+.nickname{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+    font-size: 20px;
+}
+
+.top{
+    position: relative;
+    background-color: tomato;
+    padding: 15px;
+}
+
+.pic{
+    position: relative;
+    left: 40%;
+}
+
+.favs{
+    background-color:aquamarine;
+    padding: 3px;
+    text-align: center;
+}
